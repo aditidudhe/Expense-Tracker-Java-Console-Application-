@@ -32,7 +32,4 @@ This is a Java-based console application that allows users to track and manage t
 - Java installed (JDK 8 or higher)
 - Any Java IDE (such as Eclipse, IntelliJ) or terminal with javac
 
-### Steps to Run
-
-1. Clone the repository
 
